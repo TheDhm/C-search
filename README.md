@@ -1,5 +1,5 @@
 # C-search
-A command line that search files and directories providing more infos
+A command that search files and directories providing more infos
 
 Run activate.sh to add the command to your system.
 
